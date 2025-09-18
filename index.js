@@ -9,7 +9,7 @@ const ffmpeg = require('fluent-ffmpeg');
 
 /** 로그인 */
 const loginAndNavigate = async (page) => {
-	await page.goto(process.env.DOMAIN_URL);
+	await page.goto('https://klas.kw.ac.kr');
 	await page.type('#loginId', process.env.LOGIN_ID);
 	await page.type('#loginPwd', process.env.LOGIN_PASSWORD);
 

@@ -26,8 +26,6 @@ pnpm install
 #### 로컬 실행용 `.env` 예시
 
 ```env
-DOMAIN_URL=우리만 알고 있는 대학교 주소
-
 LOGIN_ID=대학교ID
 LOGIN_PASSWORD=대학교PW
 
