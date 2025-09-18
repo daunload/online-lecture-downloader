@@ -42,3 +42,8 @@ LOGIN_PASSWORD=대학교PW
   pnpm start
   ```
 
+---
+
+<img width="523" height="447" alt="Image" src="https://github.com/user-attachments/assets/6c619192-b80f-43eb-a7a6-588f9c5130b0" />
+
+다운로드 및 mp3 변환이 완료된 파일은 각각 dowloads 폴더와 converted_mp3s 폴더에 저장됨
